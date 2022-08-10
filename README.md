@@ -1,3 +1,4 @@
+https://teknosi.fti.unand.ac.id/index.php/teknosi/article/view/259/125
 # 8-Puzzle (Sliding Puzzle)
 ![badge][badge-kotlin]
 ![badge][badge-android] 
